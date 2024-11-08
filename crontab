@@ -1,0 +1,2 @@
+7 7 * * * /path/to/script/light-mode.sh    # Light mode active from 7:00
+19 19 * * * /path/to/script/dark-mode.sh   # Dark mode active from 19:00
