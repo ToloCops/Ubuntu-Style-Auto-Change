@@ -14,5 +14,5 @@ Follow these steps to set the auto change:
      ```sh
      crontab -e
      ```
-   - Append lines in crontab files and adjust them as you like
+   - Append lines in crontab file and adjust them as you like
 3. **Enjoy🤩**
